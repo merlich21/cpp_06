@@ -1,5 +1,5 @@
 # cpp_06
-C++ casts
+**C++ casts**
 
 
 static_cast
